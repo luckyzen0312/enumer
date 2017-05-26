@@ -17,11 +17,6 @@
     "mocha": "mocha --ui qunit",
     "prepublish": "npm run build"
   },
-  "babel": {
-    "presets": [
-      "es2015"
-    ]
-  },
   "author": "Axel Rauschmayer",
   "license": "MIT",
   "repository": {
