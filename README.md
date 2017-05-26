@@ -2,7 +2,7 @@
 
 A JavaScript library for enums. To be used by transpiled ES6 (e.g. via Babel).
 
-Enumer is a based on [Enumify by Axel Rauschmayer](https://github.com/rauschma/enumify)
+Enumer is a based on [Enumify](https://github.com/rauschma/enumify) by Axel Rauschmayer (http://www.2ality.com/2016/01/enumify.html)
 
 ## The basics
 
