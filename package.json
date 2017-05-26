@@ -1,6 +1,6 @@
 {
   "name": "enumer",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "main": "./lib/enumer.js",
   "files": [
     "lib",
@@ -20,7 +20,7 @@
     "mocha": "mocha --ui qunit",
     "prepublish": "npm run build"
   },
-  "author": "Chris Lam <chris.lam@gladeye.com>",
+  "author": "Chris Lam <chris@lam.co.nz>",
   "license": "MIT",
   "repository": {
     "type": "git",
