@@ -1,21 +1,21 @@
-# Enumify
+# Enumer
 
 A JavaScript library for enums. To be used by transpiled ES6 (e.g. via Babel).
 
-The approach taken by Enumify is heavily inspired by Java enums.
+Enumer is a based on [Enumify by Axel Rauschmayer](https://github.com/rauschma/enumify)
 
 ## The basics
 
 Install:
 
 ```text
-npm install enumify
+npm install enumer
 ```
 
 Use:
 
 ```js
-import {Enum} from 'enumify';
+import {Enum} from 'enumer';
 
 class Color extends Enum {}
 Color.initEnum(['RED', 'GREEN', 'BLUE']);
@@ -50,7 +50,7 @@ true
 
 ## Properties of enum values
 
-Enumify adds two properties to every enum value:
+Enumer adds two properties to every enum value:
 
 * `name`: the name of the enum value.
 

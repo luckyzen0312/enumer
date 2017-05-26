@@ -2,7 +2,7 @@
 /* global suite */
 
 import * as assert from 'assert';
-import {Enum} from '../src/enumify';
+import {Enum} from '../src/enumer';
 
 class Result extends Enum {}
 Result.initEnum(['ACCEPTED', 'REJECTED']);

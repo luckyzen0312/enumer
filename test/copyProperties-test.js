@@ -2,7 +2,7 @@
 /* global suite */
 
 import * as assert from 'assert';
-import {copyProperties} from '../src/enumify';
+import {copyProperties} from '../src/enumer';
 
 //-------------------------------------------------
 suite('copyProperties');
